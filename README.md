@@ -3,7 +3,7 @@
 
 
 - 🔥 Junior Front-End developer 
-- 💬 Ask me about **JavaScript, React, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, React, HTML, CSS
 - 💻 Student at Rocketseat
 
 
